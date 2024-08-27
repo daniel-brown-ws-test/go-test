@@ -5,4 +5,5 @@ SELECT * FROM wss_someTable st
   AND wah='wah'
   AND dah='dah'
   AND arg='gadfsar'
+  AND wah='wah'
 LIMIT 10
